@@ -1,0 +1,21 @@
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Andrew Roe's Jarvis.exe
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\obj\Debug\netcoreapp3.1\Andrew Roe's Jarvis.csprojAssemblyReference.cache
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\obj\Debug\netcoreapp3.1\Andrew Roe's Jarvis.AssemblyInfoInputs.cache
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\obj\Debug\netcoreapp3.1\Andrew Roe's Jarvis.AssemblyInfo.cs
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Andrew Roe's Jarvis.deps.json
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Andrew Roe's Jarvis.runtimeconfig.json
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Andrew Roe's Jarvis.runtimeconfig.dev.json
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Andrew Roe's Jarvis.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Andrew Roe's Jarvis.pdb
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\obj\Debug\netcoreapp3.1\Andrew Roe's Jarvis.csproj.CopyComplete
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\obj\Debug\netcoreapp3.1\Andrew Roe's Jarvis.dll
+D:\Admin\Documents\Visual Studio 2019\Projects\Andrew Roe's Jarvis\Andrew Roe's Jarvis\obj\Debug\netcoreapp3.1\Andrew Roe's Jarvis.pdb
